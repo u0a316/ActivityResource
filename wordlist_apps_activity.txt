@@ -5,3 +5,4 @@ RPCS3|net.rpcs3/.MainActivity
 Mobile Legend|com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor
 WhatsApp|com.whatsapp/.Main
 Messenger|com.facebook.orca/.auth.StartScreenActivity
+Chrome|com.android.chrome/com.google.android.apps.chrome.Main
