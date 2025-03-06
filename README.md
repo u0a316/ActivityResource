@@ -1,1 +1,1 @@
-# ActivityResource | Under development
+# ActivityResource | In developments
