@@ -1,4 +1,0 @@
-ChatGPT|com.openai.chatgpt/.MainActivity
-Calculator|com.miui.calculator/.cal.CalculatorActivity
-Material Files|me.zhanghai.android.files/.filelist.FileListActivity
-RPCS3|net.rpcs3/.MainActivity 
