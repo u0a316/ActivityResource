@@ -7,3 +7,4 @@ WhatsApp|com.whatsapp/.Main
 Messenger|com.facebook.orca/.auth.StartScreenActivity
 Chrome|com.android.chrome/com.google.android.apps.chrome.Main
 Dana|id.dana/id.dana.onboarding.splash.DanaSplashActivity
+Shopee|com.shopee.id/com.shopee.app.ui.home.HomeActivity_
