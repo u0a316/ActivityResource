@@ -10,3 +10,4 @@ Chrome|com.android.chrome/com.google.android.apps.chrome.Main
 Dana|id.dana/id.dana.onboarding.splash.DanaSplashActivity
 Shopee|com.shopee.id/com.shopee.app.ui.home.HomeActivity_
 App Manager|io.github.muntashirakon.AppManager/.main.MainActivity
+YouTube|com.google.android.youtube/.app.honeycomb.Shell\$HomeActivity
