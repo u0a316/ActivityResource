@@ -1,0 +1,13 @@
+ChatGPT|com.openai.chatgpt/.MainActivity
+Calculator|com.miui.calculator/.cal.CalculatorActivity
+Material Files|me.zhanghai.android.files/.filelist.FileListActivity
+RPCS3|net.rpcs3/.MainActivity
+Mobile Legend|com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor
+WhatsApp|com.whatsapp/.Main
+Firefox|org.mozilla.firefox/.App
+Messenger|com.facebook.orca/.auth.StartScreenActivity
+Chrome|com.android.chrome/com.google.android.apps.chrome.Main
+Dana|id.dana/id.dana.onboarding.splash.DanaSplashActivity
+Shopee|com.shopee.id/com.shopee.app.ui.home.HomeActivity_
+App Manager|io.github.muntashirakon.AppManager/.main.MainActivity
+YouTube|com.google.android.youtube/.app.honeycomb.Shell$HomeActivity
