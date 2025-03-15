@@ -12,3 +12,4 @@ Shopee|com.shopee.id/com.shopee.app.ui.home.HomeActivity_
 App Manager|io.github.muntashirakon.AppManager/.main.MainActivity
 YouTube|com.google.android.youtube/.app.honeycomb.Shell$HomeActivity
 Acode|com.foxdebug.acodefree/.MainActivity
+AndroidIDE|com.itsaky.androidide.activities.SplashActivity
