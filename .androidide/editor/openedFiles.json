@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/List My Apps /app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 37,
+          "index": 211,
+          "line": 11
+        },
+        "start": {
+          "column": 37,
+          "index": 211,
+          "line": 11
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/List My Apps /app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 10,
+          "index": 50,
+          "line": 2
+        },
+        "start": {
+          "column": 10,
+          "index": 50,
+          "line": 2
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/List My Apps /app/src/main/java/io/github/u0a316/listmyapps/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 21,
+          "index": 21,
+          "line": 0
+        },
+        "start": {
+          "column": 21,
+          "index": 21,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/List My Apps /app/src/main/java/io/github/u0a316/listmyapps/MainActivity.kt"
+}

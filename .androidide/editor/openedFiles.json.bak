@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/List My Apps /app/src/main/java/io/github/luisadha/listmyapps/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 3016,
+          "line": 86
+        },
+        "start": {
+          "column": 1,
+          "index": 3016,
+          "line": 86
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/List My Apps /app/src/main/java/io/github/luisadha/listmyapps/MainActivity.kt"
+}
